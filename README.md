@@ -2,7 +2,7 @@
 
 Repository containing codes for performing [Photoacoustic Sub-Aperture Beamforming](https://ieeexplore.ieee.org/abstract/document/9358181) published in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. An example of PSAP beamforming for photoacoustic inclusion phantom is shown below.
 
-![An example of PSAP beamforming for photoacoustic inclusion phantom.](/assets/images/V1.tiff)
+![An example of PSAP beamforming for photoacoustic inclusion phantom.](assests/images/V1.png)
 
 ## Basic usage 
 
